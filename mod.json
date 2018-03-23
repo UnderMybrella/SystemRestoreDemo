@@ -1,7 +1,7 @@
 {
 	"name": "System Restore Demo",
 	"version":"0.1.0",
-	"zipUrl":"http://jenkins-tmp.abimon.org:8666/jobs/SystemRestoreDemo/lastSuccessfulBuild/artifact",
+	"zipUrl":"http://jenkins-tmp.abimon.org:8666/jobs/SystemRestoreDemo/lastSuccessfulBuild/artifact/mod.zip",
 
 	"requiredGame":"dr2"
 }
